@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://navin-kukreja-portfolio.vercel.app/](https://navin-kukreja-portfolio.vercel.app/)
 
-- 💬 Ask me about **ReactJs, JS, Styling and design architeture.**
+- 💬 Ask me about **ReactJs, JS, Styling and design architecture.**
 
 - 📫 How to reach me **ncodify@gmail.com**
 
