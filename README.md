@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS, GrahpQL and Could Computation.**
 
-- 👯 I’m looking to collaborate on **Mearn Based Projects**
+- 👯 I’m looking to collaborate on **MERN Based Projects**
 
 - 🤝 I’m looking for help with **Debugging, bug fixing and new features development**
 
