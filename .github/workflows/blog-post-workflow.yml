@@ -14,6 +14,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           # CHANGE THIS TO YOUR CORRECT DEV.TO USERNAME
-          feed_list: "https://dev.to/feed/Navin Kukreja"
+          feed_list: "https://dev.to/feed/navinexpo"
           comment_tag_name: "BLOG-POST-LIST"
           max_post_count: 4
