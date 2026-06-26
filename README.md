@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=Navin+Kukreja;Senior+AI-Native+Software+Engineer;Agentic+AI+%26+RAG+Specialist;Full-Stack+Architect+(MERN+.Net);Building+Scalable+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
-📅 🗓️ 🗓️ **Last updated:** [![Last Commit](https://img.shields.io/github/last-commit/navinexpo/navinexpo?style=flat-square&v=2)](https://github.com/navinexpo/navinexpo/commits/main)
+📅 **Last updated:** [![Last Commit](https://img.shields.io/github/last-commit/navinexpo/navinexpo?style=flat-square&v=2)](https://github.com/navinexpo/navinexpo/commits/main)
 
 <h1 align="center">👋 Hi, I'm Navin Kukreja</h1>
 <h3 align="center">Senior AI-Native Software Engineer | Helping Global Enterprises Automate Complex Workflows with Agentic AI & Scalable Cloud Architectures</h3>
