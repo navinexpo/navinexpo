@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/navin-kukreja-developer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://dev.to/navinkukreja"><img src="https://img.shields.io/badge/Technical_Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
   <a href="./resume.pdf"><img src="https://img.shields.io/badge/📄_View_My_Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=navink&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=navinexpo&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
