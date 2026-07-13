@@ -96,13 +96,13 @@
 ### 📊 GitHub Engineering Metrics
 
 <p align="center">
- // <img src="https://github-readme-stats.vercel.app/api?username=navinexpo&show_icons=true&count_private=true&hide_title=true&theme=github_dark&bg_color=0d1117&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navinexpo&theme=github-dark-blue&background=0d1117&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=navinexpo&show_icons=true&count_private=true&hide_title=true&theme=github_dark&bg_color=0d1117&hide_border=true&v=2026" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navinexpo&theme=github-dark-blue&background=0d1117&hide_border=true&v=2026" width="48%" />
 </p>
 
 <p align="center">
-//  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinexpo&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&langs_count=8" width="40%" />
- // <img src="https://github-profile-trophy.vercel.app/?username=navinexpo&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinexpo&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&langs_count=8&v=2026" width="40%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=navinexpo&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&v=2026" width="45%" />
 </p>
 
 ---
