@@ -96,7 +96,7 @@
 ### 📊 GitHub Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navinexpo&show_icons=true&count_private=true&hide_title=true&theme=github_dark&bg_color=0d1117&hide_border=true&v=2026" width="48%" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=navinexpo&theme=github-dark-blue&background=0d1117&hide_border=true&v=2026" width="48%" />
 </p>
 
